@@ -28,5 +28,5 @@ Currently, I'm focused on becoming a **full-stack developer** and exploring how 
 
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohamedAmine-py&theme=react-dark&hide_border=true&area=true)
+![Snake animation](https://raw.githubusercontent.com/MohamedAmine-py/MohamedAmine-py/output/github-snake.svg)
 
