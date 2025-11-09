@@ -28,7 +28,6 @@ Currently, I'm focused on becoming a **full-stack developer** and exploring how 
 
 
 
-![snake gif](https://github.com/MohamedAmine-py/MohamedAmine-py/blob/output/github-contribution-grid-snake.svg)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamedAmine-py/MohamedAmine-py/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohamedAmine-py/MohamedAmine-py/output/github-contribution-grid-snake.svg">
