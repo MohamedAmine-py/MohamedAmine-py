@@ -1,7 +1,7 @@
 ## 👨‍💻 About Me
 
 I'm **Benbouselham Mohamed Amine**, a Computer Engineering student at **ESMA in Marrakech, Morocco**.  
-I'm passionate about **web development**, especially building modern applications with **JavaScript**.  
+I'm passionate about **web development**, especially building modern applications with **JavaScript** and **Python**.  
 I enjoy learning new technologies, solving real-world problems through code, and improving my skills step by step.  
 Currently, I'm focused on becoming a **full-stack developer** and exploring how backend logic connects with clean, responsive frontends.
 
