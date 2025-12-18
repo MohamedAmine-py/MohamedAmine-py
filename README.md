@@ -13,7 +13,7 @@ Currently, I'm focused on becoming a **full-stack developer** and exploring how 
 
 
 
-##🐍 My Contributions 🐍
+## 🐍 My Contributions 🐍
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamedAmine-py/MohamedAmine-py/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohamedAmine-py/MohamedAmine-py/output/github-contribution-grid-snake.svg">
