@@ -12,7 +12,14 @@ I'm currently focused on growing as a **full-stack developer** and building clea
 ## 🛠️ Languages, Frameworks & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,java,react,nextjs,nodejs,express,django,mysql,postgres,mongodb,docker,git,github,vscode&perline=18" />
+  <!-- Languages & Frameworks -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,java,react,nextjs,nodejs,express,django,laravel" />
+</p>
+
+<p align="center">
+  <!-- Databases & Tools -->
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github,vscode,postman" />
+  <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="48" height="48" alt="Swagger" />
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n" />
 </p>
 
