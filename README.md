@@ -1,17 +1,24 @@
 ## 👨‍💻 About Me
 
-I'm **Benbouselham Mohamed Amine**, a Computer Engineering student at **ESMA in Marrakech, Morocco**.  
-I'm passionate about **web development**, especially building modern applications with **JavaScript** and **Python**.  
-I enjoy learning new technologies, solving real-world problems through code, and improving my skills step by step.  
-Currently, I'm focused on becoming a **full-stack developer** and exploring how backend logic connects with clean, responsive frontends.
+I'm **Benbouselham Mohamed Amine**, a Computer Engineering student at **ESMA Marrakech**, focused on **full-stack web development**.
+
+I enjoy building practical applications and understanding how the different parts of a system work together — from **responsive user interfaces** to **backend APIs, databases, authentication, and business logic**.
+
+My main stack includes **React, Next.js, Laravel, Python, and MySQL/PostgreSQL**, and I'm continuously strengthening my skills by building real projects, experimenting with new technologies, and improving the way I design and structure applications.
+
+I'm currently focused on growing as a **full-stack developer** and building clean, reliable, and user-focused software.
 
 
-## 🛠️ Languages,Frameworks and Tools
-
+## 🛠️ Languages, Frameworks & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,java,react,nodejs,express,mongodb,django,mysql,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,java,react,nextjs,nodejs,express,django,mysql,postgres,mongodb,docker,git,github,vscode" />
 </p>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/n8n" width="48" height="48" alt="n8n" />
+</p>
+
 
 
 
