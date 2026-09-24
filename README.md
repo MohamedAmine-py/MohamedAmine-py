@@ -23,16 +23,6 @@ I'm currently focused on growing as a full-stack developer, strengthening my Dev
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n" />
 </p>
 
-<h2 align="center">📊 Stats </h2>
-
-<p align="center">
-  <img src="profile/stats.svg" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="profile/top-langs.svg" alt="Most Used Languages" />
-</p>
-
 
 
 ## 🐍 My Contributions 🐍
