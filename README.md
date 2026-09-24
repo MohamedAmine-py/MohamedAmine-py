@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Amine Benbouselham</h1>
 
 <p align="center">
-  Building, learning, and exploring software development.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=550&lines=%3E+Building+web+applications...;%3E+Learning+DevOps...;%3E+Exploring+new+technologies...;%3E+Turning+ideas+into+code..." alt="Typing SVG" />
 </p>
 
 <br>
