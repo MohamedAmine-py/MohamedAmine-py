@@ -23,6 +23,15 @@ I'm currently focused on growing as a full-stack developer, strengthening my Dev
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n" />
 </p>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohamedAmine-py&show_icons=true&theme=github_dark&hide_border=false" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAmine-py&layout=compact&theme=github_dark&hide_border=false" />
+</p>
 
 
 
