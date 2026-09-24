@@ -1,28 +1,27 @@
 ## 👨‍💻 About Me
 
-I'm **Benbouselham Mohamed Amine**, a Computer Engineering student at **ESMA Marrakech**, focused on **full-stack web development**.
+I'm Benbouselham Mohamed Amine, a Computer Engineering student focused on full-stack web development, with a growing interest in DevOps.
 
-I enjoy building practical applications and understanding how the different parts of a system work together — from **responsive user interfaces** to **backend APIs, databases, authentication, and business logic**.
+I enjoy building practical applications and understanding how the different parts of a system work together — from responsive user interfaces to backend APIs, databases, authentication, deployment, and automation.
 
-My main stack includes **React, Next.js, Laravel, Python, and MySQL/PostgreSQL**, and I'm continuously strengthening my skills by building real projects, experimenting with new technologies, and improving the way I design and structure applications.
+My main stack includes React, Next.js, Laravel, Python, and MySQL/PostgreSQL. I'm also expanding my knowledge of Docker, GitHub Actions, CI/CD, and development workflows through hands-on projects.
 
-I'm currently focused on growing as a **full-stack developer** and building clean, reliable, and user-focused software.
+I'm currently focused on growing as a full-stack developer, strengthening my DevOps knowledge, and building clean, reliable, and user-focused software.
 
 
 ## 🛠️ Languages, Frameworks & Tools
 
 <p align="center">
   <!-- Languages & Frameworks -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,java,react,nextjs,nodejs,express,django,laravel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,java,react,nextjs,nodejs,express,django,laravel" />
 </p>
 
 <p align="center">
-  <!-- Databases & Tools -->
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github,vscode,postman" />
+  <!-- Databases, DevOps & Tools -->
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,docker,git,github,githubactions,vercel,vscode,postman" />
   <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="48" height="48" alt="Swagger" />
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n" />
 </p>
-
 
 
 
