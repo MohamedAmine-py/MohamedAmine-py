@@ -17,6 +17,7 @@ My main stack includes React, Next.js, Laravel, Python, and MySQL/PostgreSQL. I'
 I'm currently focused on growing as a full-stack developer, strengthening my DevOps knowledge, and building clean, reliable, and user-focused software.
 
 <br>
+
 ## 🛠️ Languages, Frameworks & Tools
 
 <p align="center">
