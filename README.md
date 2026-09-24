@@ -13,7 +13,7 @@ I'm currently focused on growing as a full-stack developer, strengthening my Dev
 
 <p align="center">
   <!-- Languages & Frameworks -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,java,react,nextjs,nodejs,express,django,laravel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,java,react,nextjs,tailwind,nodejs,express,django,laravel" />
 </p>
 
 <p align="center">
