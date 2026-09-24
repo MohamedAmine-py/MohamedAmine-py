@@ -1,3 +1,11 @@
+<h1 align="center">Hi 👋, I'm Mohamed Amine Benbouselham</h1>
+
+<p align="center">
+  Building, learning, and exploring software development.
+</p>
+
+<br>
+
 ## 👨‍💻 About Me
 
 I'm Benbouselham Mohamed Amine, a Computer Engineering student focused on full-stack web development, with a growing interest in DevOps.
@@ -8,7 +16,7 @@ My main stack includes React, Next.js, Laravel, Python, and MySQL/PostgreSQL. I'
 
 I'm currently focused on growing as a full-stack developer, strengthening my DevOps knowledge, and building clean, reliable, and user-focused software.
 
-
+<br>
 ## 🛠️ Languages, Frameworks & Tools
 
 <p align="center">
@@ -23,7 +31,7 @@ I'm currently focused on growing as a full-stack developer, strengthening my Dev
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n" />
 </p>
 
-
+<br>
 
 ## 🐍 My Contributions 🐍
 
