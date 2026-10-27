@@ -32,6 +32,7 @@ I'm currently focused on growing as a full-stack developer, strengthening my Dev
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,docker,git,github,githubactions,vercel,vscode,postman" />
   <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="48" height="48" alt="Swagger" />
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n" />
+  <img src="https://skillicons.dev/icons?i=wordpress" />
 </p>
 
 <br>
